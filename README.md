@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob Phillips</h1>
 <h3 align="center">A design obsessed developer from the USA based in the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobrphillips&label=Profile%20views&color=0e75b6&style=flat" alt="jacobrphillips" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobrphillips" alt="jacobrphillips" /></a> </p>
-
 - 🌱 I’m currently learning **React, Vitest, Jest, Cypress**
 
 - 💬 Ask me about **Figma, React**
