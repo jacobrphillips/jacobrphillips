@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jacobphillips-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobphillips-dev" height="30" width="40" /></a>
 <a href="https://dribbble.com/jacobphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jacobphillips" height="30" width="40" /></a>
-<a href="https://hashnode.com/jacobrphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jacobrphillips" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jacobrphillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jacobrphillips" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
