@@ -1,17 +1,28 @@
 <h1>Hi, I'm Jacob! <br/><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@JP_the_Programmer">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
+<h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
+  
+  - [Setting Up Vulnerable VMs in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
+    
+ ---
+
+<h2>👨‍💻 Software Development Projects:</h2>
+ 
 - <b>Data Structures and Algorithms Practice (Leetcode)</b>
   - [Practicing DS & Algos in C#](https://github.com/jacobrphillips/LeetCode)
 - <b>Full Stack Web App (C#/.NET, ASP.NET Core MVC, PostgreSQL)</b>
   - [C#/.NET & Tech Blog](https://github.com/jacobrphillips/YoutubeBlog)</i>
+
+ ---
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [LeetCode in C# (CSharp) Challenge: 1. TwoSum](https://youtu.be/kIfHPHSKj4o?si=1Bqmc5L4TaPvX3pv)
 - [LeetCode in C# (CSharp) Challenge: 2. AddTwoNumbers](https://youtu.be/XA3pzsq8Oew?si=ynzLB0HYA4E56IAH)
 - [LeetCode in C# (CSharp) Challenge: 3. Longest Substring Without Repeating Characters.)](https://youtu.be/_ItuEVsvK_c?si=HvpmTJ8GViGB2zv4)
+- 
+  ---
 
 <h2> 🤳 Connect with me:</h2>
 
