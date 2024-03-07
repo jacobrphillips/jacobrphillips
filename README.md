@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@JP_the_Programmer">YouTuber</a></h1>
+![banner]()
+<h1 align="center">Hello, world! 👋 I'm Jacob</h1>
+<h1 align="center"><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@JP_the_Programmer">YouTuber</a></h1>
 
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
