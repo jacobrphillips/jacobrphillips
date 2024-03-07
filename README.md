@@ -1,7 +1,16 @@
-![banner]()
+![banner](github-banner.png)
 <h1 align="center">Hello, world! 👋 I'm Jacob</h1>
-<h1 align="center"><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@JP_the_Programmer">YouTuber</a></h1>
+<h1 align="center"><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cyber Security Enthusiast</a>, <a href="https://www.youtube.com/@JP_the_Programmer">YouTuber</a></h1>
 
+ <br />
+
+ Thank you for visiting my GitHub! This repository is meant to showcase my software engineering and cybersecurity journey, with the projects I've had the privilege of working on.
+
+I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
+
+
+
+---
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
 
