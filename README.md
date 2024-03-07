@@ -3,7 +3,7 @@
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
   
-  - [Setting Up Vulnerable VMs in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
+  - [Configuring and Implementing a Honeypot in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
     
  ---
 
