@@ -2,8 +2,11 @@
 
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
-  
-  - [Configuring and Implementing a Honeypot in Azure](https://github.com/jacobrphillips/Azure-VM-Honeypot/blob/main/README.md)
+
+  - <b>Azure</b>
+    - [Configuring and Implementing a Honeypot in Azure](https://github.com/jacobrphillips/Azure-VM-Honeypot/blob/main/README.md)
+  - <b>Cybersecurity Labs</b>
+    - [Vulnerability Management Lab with Azure VM and Nessus Essentials](https://github.com/jacobrphillips/Vulnerability-Management-Lab)
     
  ---
 
