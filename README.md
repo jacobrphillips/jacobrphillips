@@ -16,7 +16,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
   - <b>Azure</b>
     - [Setting Up Vulnerable VMs in Azure](https://github.com/jacobrphillips/Azure-VM-Honeypot/blob/main/README.md)
-  - <b>Cybersecurity Labs</b>
+  - <b>Cyber Security Labs</b>
     - [Vulnerability Management Lab with Azure VM and Nessus Essentials](https://github.com/jacobrphillips/Vulnerability-Management-Lab)
     
  ---
