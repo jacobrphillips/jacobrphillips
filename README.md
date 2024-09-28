@@ -44,7 +44,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="JacobPhillips | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@JP_the_Programmer
-[linkedin]: https://www.linkedin.com/in/jacobphillips-dev/
+[linkedin]: https://www.linkedin.com/in/jacob-r-phillips/
 
 <!--
 **jacobrphillips/jacobrphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
