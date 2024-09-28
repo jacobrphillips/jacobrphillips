@@ -40,8 +40,8 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JacobPhillips | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JacobPhillips | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JacobPhillips | YouTube" width="80px" src="https://www.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
+[<img align="left" alt="JacobPhillips | LinkedIn" width="80px" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@JP_the_Programmer
 [linkedin]: https://www.linkedin.com/in/jacob-r-phillips/
