@@ -1,6 +1,6 @@
 ![banner](github-banner.png)
 <h1 align="center">Hello, world! 👋 I'm Jacob</h1>
-<h1 align="center"><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cyber Security Enthusiast</a>, <a href="https://www.youtube.com/@JP_the_Programmer">YouTuber</a></h1>
+<h1 align="center"><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cyber Security Enthusiast</a>, <a href="https://www.youtube.com/@jp.cybersec">YouTuber</a></h1>
 
  <br />
 
@@ -43,7 +43,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="JacobPhillips | YouTube" width="80px" src="https://www.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
 [<img align="left" alt="JacobPhillips | LinkedIn" width="80px" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/@JP_the_Programmer
+[youtube]: https://www.youtube.com/@jp.cybersec
 [linkedin]: https://www.linkedin.com/in/jacob-r-phillips/
 
 <!--
