@@ -32,6 +32,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <h2>📺 Popular YouTube Videos</h2>
 
+- [How to create Honeypot VMs in Azure](https://www.youtube.com/watch?v=AXzjSqc4vLo&t=62s)
 - [LeetCode in C# (CSharp) Challenge: 1. TwoSum](https://youtu.be/kIfHPHSKj4o?si=1Bqmc5L4TaPvX3pv)
 - [LeetCode in C# (CSharp) Challenge: 2. AddTwoNumbers](https://youtu.be/XA3pzsq8Oew?si=ynzLB0HYA4E56IAH)
 - [LeetCode in C# (CSharp) Challenge: 3. Longest Substring Without Repeating Characters.)](https://youtu.be/_ItuEVsvK_c?si=HvpmTJ8GViGB2zv4)
