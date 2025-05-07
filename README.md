@@ -1,12 +1,12 @@
 ![banner](github-banner.png)
 <h1 align="center">Hello, world! 👋 I'm Jacob</h1>
-<h1 align="center"><a href="https://jacobrphillips.dev/">Software Engineer</a>, <a href="https://www.linkedin.com/in/jacobphillips-dev/">Cyber Security Enthusiast</a>, <a href="https://www.youtube.com/@jp.cybersec">YouTuber</a></h1>
+<h1 align="center"><a href="https://www.linkedin.com/in/jp-cybersec/">Cyber Security Professional</a>, <a href="https://www.youtube.com/@JumpPointSec">YouTuber</a></h1>
 
  <br />
 
- Thank you for visiting my GitHub! This repository is meant to showcase my software engineering and cybersecurity journey, with the projects I've had the privilege of working on.
+ Thank you for visiting my GitHub! This repository is meant to showcase my cyber security journey, with the projects I've had the privilege of working on.
 
-I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
+I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyse risks and implement appropriate mitigation strategies.
 
 
 
@@ -43,8 +43,8 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="JacobPhillips | YouTube" width="80px" src="https://www.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
 [<img align="left" alt="JacobPhillips | LinkedIn" width="80px" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/@jp.cybersec
-[linkedin]: https://www.linkedin.com/in/jacob-r-phillips/
+[youtube]: https://www.youtube.com/@JumpPointSec
+[linkedin]: https://www.linkedin.com/in/jp-cybersec/
 
 <!--
 **jacobrphillips/jacobrphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
