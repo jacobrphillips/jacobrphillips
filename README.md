@@ -8,7 +8,11 @@
 
 I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyse risks and implement appropriate mitigation strategies.
 
+---
 
+<h2> 🤳 Connect with me:</h2>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@JumpPointSec) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jp-cybersec/)
 
 ---
 
@@ -30,22 +34,12 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
  ---
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Videos</h2>
 
 - [How to create Honeypot VMs in Azure](https://www.youtube.com/watch?v=AXzjSqc4vLo&t=62s)
 - [LeetCode in C# (CSharp) Challenge: 1. TwoSum](https://youtu.be/kIfHPHSKj4o?si=1Bqmc5L4TaPvX3pv)
 - [LeetCode in C# (CSharp) Challenge: 2. AddTwoNumbers](https://youtu.be/XA3pzsq8Oew?si=ynzLB0HYA4E56IAH)
 - [LeetCode in C# (CSharp) Challenge: 3. Longest Substring Without Repeating Characters.)](https://youtu.be/_ItuEVsvK_c?si=HvpmTJ8GViGB2zv4)
-  
-  ---
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JacobPhillips | YouTube" width="80px" src="https://www.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
-[<img align="left" alt="JacobPhillips | LinkedIn" width="80px" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com/@JumpPointSec
-[linkedin]: https://www.linkedin.com/in/jp-cybersec/
 
 <!--
 **jacobrphillips/jacobrphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
