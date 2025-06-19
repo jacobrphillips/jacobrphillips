@@ -17,8 +17,8 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
   - [PacketProbe - Passive Vulnerability Scanner](https://github.com/jacobrphillips/PacketProbe)
 
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
-  - [VigilC2 - Command and Control Application](https://github.com/jacobrphillips/VigilC2)
+![Nessus](https://img.shields.io/badge/Nessus-31555c?style=for-the-badge&logoColor=fff) ![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge) ![Semgrep](https://img.shields.io/badge/Semgrep-1de0a6?style=for-the-badge) ![Syft](https://img.shields.io/badge/Syft-e01d8c?style=for-the-badge) ![Grype](https://img.shields.io/badge/Grype-1d54e0?style=for-the-badge) 
+  - [Application Security Project](https://github.com/jacobrphillips/Security-Research-Project)
 
 <h2>HomeLab</h2>
 
