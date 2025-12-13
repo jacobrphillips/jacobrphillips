@@ -4,7 +4,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jp-cybersec/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@JumpPointSec) [![JumpPointSecurity.com](https://img.shields.io/badge/JumpPointSecurity.com-fac400?style=for-the-badge&logo=hive&logoColor=000&link=https://www.jumppointsecurity.com/)](https://www.jumppointsecurity.com/) [![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)](https://app.hackthebox.com/profile/1901998) [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)](https://tryhackme.com/p/JumpPointSec)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jp-cybersec/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@JumpPointSec) [![JumpPointSecurity.com](https://img.shields.io/badge/JumpPointSecurity.com-fac400?style=for-the-badge&logo=hive&logoColor=000&link=https://www.jumppointsecurity.com/)](https://www.jumppointsecurity.com/)
 
 ---
 
